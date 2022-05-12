@@ -1,0 +1,34 @@
+{
+  "members": [
+    {
+      "name": "ьалаьц",
+      "surname": "цуаоцоат",
+      "photo": "/static/img/gallery/member1.jpg",
+      "prof": [
+        "крутой",
+        "любит всех",
+        "топ"
+      ]
+    },
+    {
+      "name": "Марк 2",
+      "surname": "тони",
+      "photo": "/static/img/gallery/member2.jpg",
+      "prof": [
+        "фывфацуа",
+        "цйабхуахбйа",
+        "цдубайж",
+        "штурман"
+      ]
+    },
+    {
+      "name": "уалцьула",
+      "surname": "дДЬЭФТ",
+      "photo": "/static/img/gallery/member3.jpg",
+      "prof": [
+        "РАДИОТЕхник",
+        "куку"
+      ]
+    }
+  ]
+}
